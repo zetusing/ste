@@ -1,0 +1,121 @@
+ID	Patología	Frecuencias	Frecuencias teóricas	Observaciones		Referencia1
+A	A					
+A	Anemia en sangre - Anemia Blood	80,550,5000,5970	80,550,5970,23000,50500,80500,97530,210500,533210,909260			
+A	Artrosis (osteoartritis articulaciones) - Osteoarthritis, Joints	962,1500,770	962,1500,770			
+A	Articulación inflamación - Joint Inflammation	727,787,880,10000	727,787,880,10000			
+B	B					
+B	Bruxismo - Bruxism	80,320,20000	80,320,20000,85030,150000,225000,219340,453720,515150,683000			
+C	C					
+C	Catarro y dolor de garganta - Catarrh,Throat	1550,880,444,20	1550,802,800,880,787,727,444,20			
+C	Compresión lumbar - Lumbar Compression	6110	6110			
+C	Cerebrales - Ondas Delta - Sueño y meditación profunda	1-3	1-3			
+C	Cerebrales - Ondas Theta - Calma y relajación profunda	4-7	4-7			
+C	Cerebrales - Ondas Alfa - Calma profunda	8-13	8-13			
+C	Cerebrales - Ondas Beta - Estado de alerta y gestión ágil de la atención	14-33	14-33			
+C	Cerebrales - Ondas Gamma - Estado de consciencia, foco atencional y gestión de la memoria	34-100	34-100			
+C	Celulitis - Cellulitis	30,500,850,5120,7250,13930	30,500,850,5120,7250,13930,147500,250000,425750,625000			
+C	Cáncer de Próstata - Cancer Prostate 1	666,2125,2131,2140,3672	666,2125,2128,2131,2140,2145,3672			
+C	Cartílago enfermedad - Cartilage Diseases	60,52	60,520,27500,55750,125190,250000,453720,517500,683000,712420			
+D	D					
+D	Dolor articulación cadera - Hip Joint Pain	15,73,338,528,2475,3255,4225,5754,7433,8967	15.19,47.29,72.7,338,528,2422,2475,3255,4225,4332,5754,7433,7938,8967			
+D	Dolor de cabeza alivio rápido - Headache Rapid Relief	160	160			
+D	Dolor de garganta - Sore Throat	1550	1550			
+D	Dolor de cabeza - Headaches 2	1,10,144,160,304,520,10000	1.19,10,144,160,304,520,10000			
+D	Dolor de espalda - Backache 1	10000,1550,787,727,300	10000,1550,880,802,787,760,727,305,360,300			
+D	Diabetes - Diabetes 2	4200,2128,1550,787,444,95,48,302	4200,2128,1865,1850,1550,787,465,444,125,95,72,48,302			
+D	Diabetes Mellitus - Diabetes Mellitus	150,890,1700,6970,12890	150,890,1700,6970,12890,62300,512500,637500,895000,951300			
+D	Diabetes secundaria - Diabetes Secondary	10000,2720,1550,802,465,20	10000,2720,2170,1800,1550,880,802,727,465,20			
+D	Diabetes terciaria - Diabetes Tertiary	1850,4000,500	1850,32000,4000,500			
+E	E					
+E	Enfermedad de Parkinson - Morbus Parkinson,Brain	33,693,813,5000	33,693,813,5000			
+E	Enfermedad de Parkinson Nervio - Parkinson's Disease,Nerve	470,693,813,1,5000,1131,33	470,693,813,1,5000,1131,33			
+E	Enferdades del nervio craneal - Cranial Nerve Diseases	60,260,950,5150	60,260,950,5150,27250,42500,95950,427500,67000,862020			
+E	Estimulación a la curación de los huesos - Bones Stimulate Healing	7,25,50	7,25,50			
+E	Escoliosis - Scoliosis	50,240,600,5250	50,240,600,5250			
+E	Espolones en tallón - Heel Spurs	1,120,250	1.19,120,250			
+E	Espolones óseos - Bone Spurs	1,250	1.2,250			
+E	Emocional balance 1 - Emotional Balance 1	15,644,764	15,644,764			
+E	Emocional balance 2 - Emotional Balance 2	360	360			
+E	Emoción comportamiento anormal - Emotion Abnormal Behaviour	664,764,6000	664,764,6000			
+F	F					
+F	Foliculitis - Hot Tub Folliculitis 3	174,178,191,405	174,178,191,405	Se prueba en foliculitis.		
+F	Fascitis - Fasciitis	50,120,600,3870	50,120,600,3870,72250,125430,387500,525910,712500,825440			
+G	G					
+G	Grasa quemar - Fat Burn 1	124,333,523,666,768,786,950,958,959	124,333,523,666,768,786,950,958,959,959.6,960.39,962,967.6,969.29			
+H	H					
+H	Hemorroides - Hemorrhoids 3	727,802,880,1550	 727,802,880,1550			
+H	Hombro congelado - Frozen Shoulder	10000,880,787,727	10000,880,802,787,766,727			
+H	Hombro lesiones - Shoulder Injuries	120,5500	120,5500,32500,125710,229320,479500,527000,667000,789000,918200			
+H	Hombro rígido - Stiff Shoulder 	10000,727,766,20	10000,727,766,20			
+H	Hombro capsulitis - Capsulitis Shoulder	60,230,20000	60,230,20000,68250,125750,158300,357300,532410,653690,759830			
+H	Hueso inflamación - Inflammation Bone	724,736,743,770	724,736,743,770			
+I	I					
+J	J					
+K	K					
+L	L					
+L	Listesis (Espondilolistesis) - Listhesis (Spondylolisthesis)	460,680	460,680,32710,96500,319340,428170,512330,682450,753070,922530			
+L	Lumbalgia - Lumbago	30,190	30,190			
+L	Lordosis - Lordosis	150,230,620,930,7500,12690	150,230,620,930,7500,12690,52500,72500,93500,96500			
+M	M					
+M	Meditación - Atraer positividad, suerte y abundancia - Desbloquear potencial y conectar universo	369	369			
+M	Meditación - Liberación miedos y culpas - Transformar emociones negativas en positivas.	396	396			
+M	Meditación - Facilitar cambios y deshacer situaciones difíciles - Romper patrones negativos y renovación	417	417			
+M	Meditación - Frecuencia natural - Efecto calmante y armonizador en el cuerpo y la mente	432	432			
+M	Meditación - Frecuencia del amor - Reparación del ADN y la transformación celular, reduce el estrés	528	528			
+M	Meditación - Conexión espiritual y activación glándula pineal - Promover intuición y elevación de la conciencia	963	963			
+M	Migraña - Migraine	10	10			
+M	Mareo y vértigo - Giddiness Dizziness	20,10000	20,10000			
+M	Mareo - Giddiness	20,727,787,880,5000	20,727,787,880,5000			
+M	Músculo crecimiento y reparación - Muscle Growth and Repair	25	25			
+M	Músculo estimulación de la curación - Muscle Healing Stimulate	13,14	13,5			
+M	Músculo dolor y daño - Muscle Pain and Injury	160	160			
+M	Músculo reparación - Muscle Repair	5000	5000			
+M	Músculo tonificación - Muscle Tonic	20,120,240,328,728,5000,10000	20,120,240,300,304,328,728,880,5000,10000			
+N	N					
+N	Neoplasias mieloproliferativas - Myeloproliferative Disorders	50,410,600,950,5780	50,410,600,950,5780,30000,57500,97500,325870,675960	Tratamiento Cintia		
+N	Nervio curación - Nerve Healing	2,657,5000,10000	2,657,5000,10000			
+N	Nervio curación 2 - Nerve Healing 2	7,10,0200	7.63,10,200			
+N	Nervio inflamación - Nerve Inflammation	727,787,880,10000	727,787,880,10000			
+N	Nervio dolor - Nerve Pain	968,1200,2720	968=1200,2720			
+N	Neuralgia intercostal - Intercostal Neuralgia, Rib	3000,1550,880,787,727,125,20,1865,444	3000,1550,880,802,787,776,727,125,20,1865,444			
+N	Neuralgia en brazos - Neuralgia Arms	20,727,787,880,10000	20,727,787,880,10000			
+N	Neuralgia intercostal nervio - Neuralgia Intercostal, Nerve	802	802			
+N	Neuralgia general - Neuralgia General	802,1550,833,2720,10000	3.89,802,1550,833,2720,10000			
+N	Neuralgia trigeminal rostro - Neuralgia Trigeminal, Face	880	880			
+O	O					
+O	Osteoporosis - Osteoporosis	30,240,700,1770,12330	30,240,700,1770,12330,27500,135520,550000,725290,875000			
+P	P					
+P	Piel belleza - Beauty Skin	221	221.23			
+P	Piel - Skin Diseases	370	370,7250,45750	Se prueba en manchas y foliculitis.		Referencia2
+P	Peca - Freckle	60,370,870	60,370,870,7500,8000,62500,95560,325870,473000,742060			
+P	Policitemia vera - Polycythemia Vera	140,220,730,13020	140,220,730,13020	Tratamiento Cintia		
+P	Pólipos intestinales - Intestinal Polyps	50,520,780,10470,5580	50,520,780,10470,5580,32500,65680,149210,275670,375680			
+Q	Q					
+R	R					
+R	Rodilla dolor en articulación - Knee Joint Pain	1,9,20,250,802,1550	1.19,3,7.69,9.39,9.59,20,28,250,727,787,802,880,1550			
+R	Rodilla lesión - Knee Injury	190,680,10020	190,680,10020,31230,127760,309600,436090,463970,502930,651820			
+R	Regeneración de hueso - Bone Regeneration 1	7,424,690,880,1552,2720,10000	7,424,465,660,690,727.5,784,787,880,1552,1560,1577,2720,10000			
+S	S					
+S	Síndrome de intestino irritable SII - Irritable Bowel Syndrome IBS	6766,5429,2018,1550,880,422,20	6766,5429,4334,2018,1550,880,832,829,812,802,787,727,465,422,407,334,20			
+S	Síndrome de Down - Down Syndrome	20,5000	20,5000			
+S	Sabañones en manos y pies - Chilblains Hands Feet	20,232,622,822,2112,4211	20,232,622,822,2112,4211			
+S	Sabañones - Chilblains	160,570,850,7500	160,570,850,7500,52500,122530,375190,400000,564280,846960			
+T	T					
+T	Tos - Cough	1234,514	1234,514			
+T	Tendinitis - Tendor repair	120	120	Se prueba en tendinitis de muñeca y rodilla.		
+T	Tendinitis - Tendomyopathy,Tendon	320,250,160,80,40,20,10,6,2,1	320,250,160,80,40,20,10,5.8,2.5,1.5,1.2,1,0.5			
+T	Tendinitis - Tendomyopathy,Tendon	320,160,80,40,1	320,250,160,80,40,20,10,5.8,2.5,1.5,1.2,1,0.5			
+T	Tendinitis y tibiales posteriores - Tendonitis and Tibialis Posterior	20,120,300,727,880,2008,5000,12710	120,300,12710,50000,150000,358570,479500,527000,662710,749000,986220,20,727,787,880,5000,2008			
+T	Trastorno de plaquetas en la sangre - Blood Platelet Disorders	10,40,520,11090	10,520,11090,55750,60000,125000,275160,571000,834000,932000	Tratamiento Cintia		
+U	U					
+V	V					
+V	Vértebras lumbares - Lumbar Vertebrae	727,880,10000	727,787,880,10000			
+V	Várices - Varicoses 2	2,20,40,95,300,1250,1500	2.4,9.39,20,28,33,40,72,95,148,224,300.5,685,776,1250,1500,1520			
+V	Vértigo y mareo - Dizziness Giddiness 	20,10000	20,10000			
+V	Vértigo - Dizziness 	4,6,60	4,6,60			
+V	Verrugas 1 - Warts General Skin	2720,2170,1500,666,466,110	2720,2489,2170,2127,2008,1800,1600,1500,907,915,874,727,690,666,644,767,953,495,466,110			
+V	Verrugas 2 - Warts Verruca,Skin	495,767,877,953,173	495,644,767,797,877,953,173,787			
+W	W					
+X	X					
+Y	Y					
+Z	Z					
