@@ -3,8 +3,10 @@ A	A
 A	Anemia en sangre - Anemia Blood	80,550,5000,5970	80,550,5970,23000,50500,80500,97530,210500,533210,909260			
 A	Artrosis (osteoartritis articulaciones) - Osteoarthritis, Joints	962,1500,770	962,1500,770			
 A	Articulación inflamación - Joint Inflammation	727,787,880,10000	727,787,880,10000			
+A	Acúfenos  - Tinnitus Ear	20,728,784,880,2720	20,2720,728,784,880			
 B	B					
 B	Bruxismo - Bruxism	80,320,20000	80,320,20000,85030,150000,225000,219340,453720,515150,683000			
+B	Bursitis - Bursitis 2	660,690,727,787,880,10000	660,690,727.5,787,880,10000			
 C	C					
 C	Catarro y dolor de garganta - Catarrh,Throat	1550,880,444,20	1550,802,800,880,787,727,444,20			
 C	Compresión lumbar - Lumbar Compression	6110	6110			
@@ -16,6 +18,13 @@ C	Cerebrales - Ondas Gamma - Estado de consciencia, foco atencional y gestión d
 C	Celulitis - Cellulitis	30,500,850,5120,7250,13930	30,500,850,5120,7250,13930,147500,250000,425750,625000			
 C	Cáncer de Próstata - Cancer Prostate 1	666,2125,2131,2140,3672	666,2125,2128,2131,2140,2145,3672			
 C	Cartílago enfermedad - Cartilage Diseases	60,52	60,520,27500,55750,125190,250000,453720,517500,683000,712420			
+C	Cabello pérdida - Hair Losing	20,800,10000	20,800,10000			
+C	Cabello pérdida 2 - Hair Loss 2	727,800,880,10000	727,800,880,10000			
+C	Cabello crecimiento y recuperar color - Hair Regain Color/Grow	1	1.05			
+C	Cabello alopecia - Alopecia, Hair	20,10000,880,727,465,146,800,1552	20,10000,880,787,727,465,146,800,1552			
+C	Constipación - Constipation, Colon	1550,880,832,787,422,727,20	1550,880,802,832,787,776,422,727,20			
+C	Ciática 1 - Sciatica 1,Back	254,464,465,866,15,25	254,464,465,866,15,25.4			
+C	Ciática 2 - Sciaticor Schias	1550,802,880,787,727,690,666,10	1550,802,880,787,727,690,666,10			
 D	D					
 D	Dolor articulación cadera - Hip Joint Pain	15,73,338,528,2475,3255,4225,5754,7433,8967	15.19,47.29,72.7,338,528,2422,2475,3255,4225,4332,5754,7433,7938,8967			
 D	Dolor de cabeza alivio rápido - Headache Rapid Relief	160	160			
@@ -40,6 +49,8 @@ E	Emoción comportamiento anormal - Emotion Abnormal Behaviour	664,764,6000	664,
 F	F					
 F	Foliculitis - Hot Tub Folliculitis 3	174,178,191,405	174,178,191,405	Se prueba en foliculitis.		
 F	Fascitis - Fasciitis	50,120,600,3870	50,120,600,3870,72250,125430,387500,525910,712500,825440			
+F	Fibromialgia - Fibromyalgia 1	120,304,464,728,880,2489,3176,5000,6000,9000	120,140,304,464,728,800,880,2489,3176,5000,6000,9000			
+F	Fibromialgia nervio - Fibromyalgia, Nerve	328,880,728,5000,2720,664,464,304,120,20	328,880,800,728,5000,2720,2180,2128,664,464,304,120,20			
 G	G					
 G	Grasa quemar - Fat Burn 1	124,333,523,666,768,786,950,958,959	124,333,523,666,768,786,950,958,959,959.6,960.39,962,967.6,969.29			
 H	H					
@@ -70,7 +81,20 @@ M	Músculo crecimiento y reparación - Muscle Growth and Repair	25	25
 M	Músculo estimulación de la curación - Muscle Healing Stimulate	13,14	13,5			
 M	Músculo dolor y daño - Muscle Pain and Injury	160	160			
 M	Músculo reparación - Muscle Repair	5000	5000			
-M	Músculo tonificación - Muscle Tonic	20,120,240,328,728,5000,10000	20,120,240,300,304,328,728,880,5000,10000			
+M	Músculo tonificación tono - Muscle Tonic	20,120,240,328,728,5000,10000	20,120,240,300,304,328,728,880,5000,10000			
+M	Músculo claudicación intermitente - Muscle Intermittent Claudication	45,48	45,48			
+M	Músculo calambre - Muscle Cramp	130,400,620,3830	130,400,620,3830,35250,132250,282500,327500,522500,748000			
+M	Músculo espasmos y calambres - Muscle Cramps/Spasms	6,7	6.8			
+M	Músculo espasticidad - Muscle Spasticity	130,400,620,900,5580	130,400,620,900,5580,117250,442520,657510,722590,865870			
+M	Músculo relajación - Muscles to Relax	965,20,120,240,760,7,6000,304	965,20,120,240,760,6.8,6000,304			
+M	Músculo lesión - Muscle Injury 	2720,6000,320,250,160,80,40,10,6,1	2720,6000,320,250,240,160,125,80,40,20,10,5.8,2.5,1.5,1.2,1,0.5			
+M	Músculo miositis - Muscle Myositis	120,125,1124,1169,762	120,122,125,129,1124,1169,762			
+M	Músculo paresia - Muscle Paresis	9,10	9.4			
+M	Músculo involuntario - Muscle Involuntary	40	40			
+M	Músculo rigidez secundaria - Stiff Muscles Secondary	1,6,10,250,787,802,880,1550	0.05,1,1.2,1.5,2.5,5.9,10,250,776,787,802,880,1550			
+M	Músculo rigidez - Stiff Muscles	328,240,160,776,1800,125,80,20,6000	320,328,304,300,240,160,776,728,1800,125,80,40,20,6000			
+M	Músculo costalgia - Muscle Costalgia	10000,880,787,727	10000,880,787,727			
+M	Músculo distorsión distensión desgarro - Muscle Distortion	9,10,110	9.1,110			
 N	N					
 N	Neoplasias mieloproliferativas - Myeloproliferative Disorders	50,410,600,950,5780	50,410,600,950,5780,30000,57500,97500,325870,675960	Tratamiento Cintia		
 N	Nervio curación - Nerve Healing	2,657,5000,10000	2,657,5000,10000			
@@ -90,6 +114,8 @@ P	Piel - Skin Diseases	370	370,7250,45750	Se prueba en manchas y foliculitis.		R
 P	Peca - Freckle	60,370,870	60,370,870,7500,8000,62500,95560,325870,473000,742060			
 P	Policitemia vera - Polycythemia Vera	140,220,730,13020	140,220,730,13020	Tratamiento Cintia		
 P	Pólipos intestinales - Intestinal Polyps	50,520,780,10470,5580	50,520,780,10470,5580,32500,65680,149210,275670,375680			
+P	Parásito ascaris lumbricoides (lombrices grandes) - Parasite Ascaris Lumbricoides All Stages	1200,120,240,360	1200,120,240,360			
+P	Parásito enterobius vermicularis (oxiuros) - Parasite Enterobius Vermicularis	422,733,835,4412,1800,13000,20000	422,423,732,733,827,835,4412,1800,13000,20000			
 Q	Q					
 R	R					
 R	Rodilla dolor en articulación - Knee Joint Pain	1,9,20,250,802,1550	1.19,3,7.69,9.39,9.59,20,28,250,727,787,802,880,1550			
