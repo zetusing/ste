@@ -25,6 +25,9 @@ C	Cabello alopecia - Alopecia, Hair	20,10000,880,727,465,146,800,1552	20,10000,8
 C	Constipación - Constipation, Colon	1550,880,832,787,422,727,20	1550,880,802,832,787,776,422,727,20			
 C	Ciática 1 - Sciatica 1,Back	254,464,465,866,15,25	254,464,465,866,15,25.4			
 C	Ciática 2 - Sciaticor Schias	1550,802,880,787,727,690,666,10	1550,802,880,787,727,690,666,10			
+C	Carcinoma bronquial - Carcinoma Bronchial	462,852,1582	462,852,1582			
+C	Carcinoma pulmonar no microcítico (de células no pequeñas de pulmón) - Carcinoma Non-Small Cell Lung	60,180,970,5830,20000	60,180,970,5830,22000,47280,87220,97500,355720,434000			
+C	Carcinoma en grano de avena (microcítico, de células pequeñas) - Carcinoma Small Cell	30,460,750,850,2500,7500,17500	30,460,750,850,2500,7500,17500,96500,350000,450000			
 D	D					
 D	Dolor articulación cadera - Hip Joint Pain	15,73,338,528,2475,3255,4225,5754,7433,8967	15.19,47.29,72.7,338,528,2422,2475,3255,4225,4332,5754,7433,7938,8967			
 D	Dolor de cabeza alivio rápido - Headache Rapid Relief	160	160			
