@@ -110,6 +110,9 @@ N	Neuralgia en brazos - Neuralgia Arms	20,727,787,880,10000	20,727,787,880,10000
 N	Neuralgia intercostal nervio - Neuralgia Intercostal, Nerve	802	802			
 N	Neuralgia general - Neuralgia General	802,1550,833,2720,10000	3.89,802,1550,833,2720,10000			
 N	Neuralgia trigeminal rostro - Neuralgia Trigeminal, Face	880	880			
+N	Neuropatía - Neuropathy	190,1220,4330,17250	190,1220,4330,17250,63210,119420,341230,403030,435000,711170			
+N	Neuropatía diabética - Diabetic Neuropathy	73	73			
+N	Neuropatía nervio - Neuropathy, Nerve	10000,2720,1800,1550,880,787,727,600,125,95,72,20	10000,2720,2489,2112,2170,1800,1600,1550,802,880,787,727,650,625,600,125,95,72,20,440,660			
 O	O					
 O	Osteoporosis - Osteoporosis	30,240,700,1770,12330	30,240,700,1770,12330,27500,135520,550000,725290,875000			
 P	P					
